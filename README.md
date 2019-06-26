@@ -1,0 +1,2 @@
+# VM-templete
+VM creation 
